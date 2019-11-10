@@ -1,0 +1,19 @@
+Controles:
+
+setas: move o personagem
+w: atira para cima
+a: atira para o lado esquerdo
+s: atira para baixo
+d: atira para direita
+
+
+Para fazer a musica funcionar no compilador:
+Você deve ir em "Settings" e clicar em "Compiler"
+
+Selecione a opção "Linker settings"
+aperte em "add" e escreva "winmm".
+
+A musica deve estar junto a pasta do jogo.
+============================================
+O tamanho da janela é 120 por 43.
+:)
